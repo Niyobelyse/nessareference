@@ -1,0 +1,23 @@
+.bgimage{
+    background-image: url('/public/WEB_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 88vh;
+}
+#section_call_to_action{
+    background: #f4f5f6;
+   
+   
+}
+.footer{
+    background-color: rgb(5,77,111);
+    height: 500px;
+}
+.twitter{
+    background-color: rgb(244,245,246);
+    height: 65vh;
+}
+
+.email{
+    color: rgb(0,132,180);
+}
